@@ -45,7 +45,7 @@ const games = [
     url: "https://minthol12.github.io/DayTrade",
   },
   {
-    title: "Escalatoin",
+    title: "Escalation",
     description: "Accurate simulation of Privilege Escalation",
     url: "https://minthol12.github.io/Escalation",
   },
