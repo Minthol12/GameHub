@@ -54,6 +54,11 @@ const games = [
     description: "Realistic Simulation of website hacking",
     url: "https://minthol12.github.io/CyberSandbox",
   },
+  {
+    title: "Spotify",
+    description: "My Playlist",
+    url: "https://minthol12.github.io/Spotify",
+  },
 ];
 
 const grid = document.getElementById("games");
