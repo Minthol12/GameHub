@@ -44,6 +44,16 @@ const games = [
     description: "Accurate simulation of Day Trading.",
     url: "https://minthol12.github.io/DayTrade",
   },
+  {
+    title: "Escalatoin",
+    description: "Accurate simulation of Privilege Escalation",
+    url: "https://minthol12.github.io/Escalation",
+  },
+  {
+    title: "CyberSandbox",
+    description: "Realistic Simulation of website hacking",
+    url: "https://minthol12.github.io/CyberSandbox",
+  },
 ];
 
 const grid = document.getElementById("games");
