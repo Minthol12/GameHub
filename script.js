@@ -59,6 +59,11 @@ const games = [
     description: "My Playlist",
     url: "https://minthol12.github.io/Spotify",
   },
+  {
+    title: "Globle",
+    description: "Guess the country",
+    url: "https://minthol12.github.io/Globle",
+  },
 ];
 
 const grid = document.getElementById("games");
